@@ -1,0 +1,17 @@
+1.create student managment application using jhipster
+2. after completing the generation open with intilijie
+3.create cassandra database for student managment application
+> source 'path nof keyspace';
+> use studentmanagment;
+> source 'path';
+4.go to maven projectrs  run the application
+> click on springboot run
+5. create a repository in github.com
+6.1 push the code to the repository created
+6.2 push the code
+steps github.com
+git init
+git add --all
+git commit -am "first commit"
+git remote add origin https://github.com/lohith503/book_management_repo.git (check for the new repo)
+git push -u origin master
